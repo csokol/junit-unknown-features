@@ -1,0 +1,17 @@
+*.class
+.classpath
+.settings
+.project
+.DS_Store
+bin
+development.properties
+build/*
+dist/
+tmp/
+./src/test/resources/hibernate.test.cfg.xml
+src/test/resources/stamper/tmp/
+src/main/webapp/WEB-INF/lib
+
+# Package Files #
+*.war
+*.ear
